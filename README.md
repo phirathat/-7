@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ ผม [ใส่ชื่อของคุณ] (Phirathat)
+# 👋 สวัสดีครับ ผม [Phirathat] (Phirathat)
 
 ### 🚀 เกี่ยวกับผม (About Me)
 - 👨‍💻 ปัจจุบันกำลังสนใจและศึกษาเกี่ยวกับ: **[เช่น Web Development / Data Science / Mobile App]**
