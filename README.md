@@ -15,10 +15,6 @@
 ---
 
 ### 📫 ช่องทางการติดต่อ (Contact Me)
-- 📧 Email: **[your.email@example.com]**
-- 🌐 Website/Portfolio: **[link-to-your-website.com]**
-- 💼 LinkedIn: **[linkedin.com/in/yourprofile]**
+- 📧 : *Ig*https://www.instagram.com/phirathat_t/
 
----
-
-⚡ *Quote สั้นๆ ที่ชอบ (ถ้ามี)*
+--
